@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# local outputs
+results/
+*.log
+
+# notebooks
+Untitled.ipynb
+
+# optional large/private assets
+# data/
+# drug_targets.db
